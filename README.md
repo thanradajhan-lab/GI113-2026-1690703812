@@ -8,7 +8,7 @@ Repository ส่วนตัวของวิชา **GI113 Computer Programmi
 
 ```
 ชื่อ-นามสกุล: ธัญรดา จันธนู
-Section: 125D
+Section: 129D
 รหัสนักศึกษา: 1690703812
 เลขที่: N/A
 ```
