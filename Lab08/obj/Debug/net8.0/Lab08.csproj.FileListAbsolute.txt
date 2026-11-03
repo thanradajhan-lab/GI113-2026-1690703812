@@ -1,0 +1,15 @@
+D:\129D_1690703812\Repo\GI113-2026-1690703812\Lab08\obj\Debug\net8.0\Lab08.GeneratedMSBuildEditorConfig.editorconfig
+D:\129D_1690703812\Repo\GI113-2026-1690703812\Lab08\obj\Debug\net8.0\Lab08.AssemblyInfoInputs.cache
+D:\129D_1690703812\Repo\GI113-2026-1690703812\Lab08\obj\Debug\net8.0\Lab08.AssemblyInfo.cs
+D:\129D_1690703812\Repo\GI113-2026-1690703812\Lab08\obj\Debug\net8.0\Lab08.csproj.CoreCompileInputs.cache
+D:\129D_1690703812\Repo\GI113-2026-1690703812\Lab08\obj\Debug\net8.0\Lab08.sourcelink.json
+D:\129D_1690703812\Repo\GI113-2026-1690703812\Lab08\bin\Debug\net8.0\Lab08.exe
+D:\129D_1690703812\Repo\GI113-2026-1690703812\Lab08\bin\Debug\net8.0\Lab08.deps.json
+D:\129D_1690703812\Repo\GI113-2026-1690703812\Lab08\bin\Debug\net8.0\Lab08.runtimeconfig.json
+D:\129D_1690703812\Repo\GI113-2026-1690703812\Lab08\bin\Debug\net8.0\Lab08.dll
+D:\129D_1690703812\Repo\GI113-2026-1690703812\Lab08\bin\Debug\net8.0\Lab08.pdb
+D:\129D_1690703812\Repo\GI113-2026-1690703812\Lab08\obj\Debug\net8.0\Lab08.dll
+D:\129D_1690703812\Repo\GI113-2026-1690703812\Lab08\obj\Debug\net8.0\refint\Lab08.dll
+D:\129D_1690703812\Repo\GI113-2026-1690703812\Lab08\obj\Debug\net8.0\Lab08.pdb
+D:\129D_1690703812\Repo\GI113-2026-1690703812\Lab08\obj\Debug\net8.0\Lab08.genruntimeconfig.cache
+D:\129D_1690703812\Repo\GI113-2026-1690703812\Lab08\obj\Debug\net8.0\ref\Lab08.dll
